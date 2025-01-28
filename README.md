@@ -6,7 +6,7 @@ We welcome contributions from the community! Here are some ways you can get invo
 * __Report Issues__: If you find any bugs or have suggestions for improvements, please open an issue.
 * __Submit Pull Requests__: We appreciate your help in fixing bugs, adding new features, or improving documentation.
 * __Join Discussions__: Participate in discussions to share your ideas and feedback.
-* __Donate__: Help us by buying us a coffee (Here)[https://paypal.me/mdevofficial]
+* __Donate__: Help us by buying us a coffee [Here](https://paypal.me/mdevofficial)
 ## Licences
 > [!CAUTION]
 > Our paid projects have the licence the client wants it to have.
